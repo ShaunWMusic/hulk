@@ -5,7 +5,8 @@ A short introduction of this app could easily go here.
 
 ## CodeSandbox
 
-- [CodeSandbox](https://codesandbox.io/s/hulk-rfnhf)
+- [Live Example](https://codesandbox.io/s/hulk-rfnhf)
+
 
 ## Prerequisites
 
