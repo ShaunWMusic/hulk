@@ -50,8 +50,5 @@
   "engines": {
     "node": "8.* || >= 10.*"
   },
-  "keywords": [],
-  "dependencies": {
-    "eslint": "6.8.0"
-  }
+  "keywords": []
 }
