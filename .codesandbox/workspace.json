@@ -4,6 +4,15 @@
       "views": [
         {
           "id": "codesandbox.browser"
+        },
+        {
+          "id": "codesandbox.browser",
+          "options": {
+            "port": 7357,
+            "url": "https://rfnhf-7357.sse.codesandbox.io"
+          },
+          "closeable": true
+
         }
       ]
     },

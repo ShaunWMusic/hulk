@@ -6,6 +6,7 @@ A short introduction of this app could easily go here.
 ## CodeSandbox
 
 - [Live Example](https://codesandbox.io/s/hulk-rfnhf)
+- **ProTip** - Restart Sandbox if server looks broken
 
 
 ## Prerequisites
