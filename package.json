@@ -2,7 +2,7 @@
   "name": "hulk",
   "version": "0.0.0",
   "private": true,
-  "description": "Small description for hulk goes here",
+  "description": "",
   "repository": "",
   "license": "MIT",
   "author": "",
@@ -48,5 +48,6 @@
   },
   "engines": {
     "node": "8.* || >= 10.*"
-  }
+  },
+  "keywords": []
 }
